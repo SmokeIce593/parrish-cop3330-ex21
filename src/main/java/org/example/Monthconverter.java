@@ -14,7 +14,7 @@ public class Monthconverter {
 
         System.out.print("Please enter the number of the month: ");
         int month = input.nextInt();
-        String monthString = "";
+        String monthString;
 
 
         switch (month) {
